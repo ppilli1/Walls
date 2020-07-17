@@ -1,2 +1,2 @@
-# Walls
-This is a simulation of bullets hitting walls to identify wall thickness.
+# p5.play-boilerplate
+Boiler plate for p5.play
